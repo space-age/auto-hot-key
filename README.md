@@ -13,3 +13,10 @@
    - This program works for any program running in your computer. 
    - It will start the program specified, and will watch if it crashes for any reason or if program closes, it will automatically re-start the program.
    - If it runs non-stop for x amount of days without crashing or restarting, then it will do an automatically restart
+
+## Will need to install AutoHotKey from https://www.autohotkey.com/
+
+1. Download and install Auto Hot Key
+2. To create a file, give it a name and add the extension **.ahk**
+3. To run the application, you can double-click the file and it will start the script
+4. Or Can create a task in task scheduler to start the script once computer starts or as preferred
